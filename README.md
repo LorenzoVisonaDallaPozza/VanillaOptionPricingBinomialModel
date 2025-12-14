@@ -43,13 +43,13 @@ The output will display:
 ### Example Output
 ```text
 All realizations for all times are:
-t=0:  100.0000000000000 
-t=1:  103.3895113521665  96.7216091219602 
+t=0: 100,0000000000000 
+t=1: 106,6678614786084 93,7489498840796 
 ...
 
 Comparison of the European and American Put prices
-European Put Option price: 2.345...
-American Put Option price: 2.512...
+European Put Option price: 6.042226351743356
+American Put Option price: 6.463389706267749
 ```
 
 ## Authors & Acknowledgments
