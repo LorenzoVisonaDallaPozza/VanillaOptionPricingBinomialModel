@@ -1,4 +1,5 @@
 # Vanilla Option Pricing - Binomial Model
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **Project developed for the "Mathematical Finance" course at Università di Verona.**
 
@@ -61,3 +62,6 @@ American Put Option price: 6.463389706267749
 **Credits:**
 * This project is based on a template provided by **Prof. Alessandro Gnoatto**, specifically regarding the base structure of the `BinomialModel` class.
 * The implementation of **European and American Options** (including Snell Envelope logic), input validation and the pricing architecture was developed by the team as part of the project work.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
